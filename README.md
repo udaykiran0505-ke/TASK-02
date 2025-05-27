@@ -1,1 +1,2 @@
-# TASK-02
+ TASK-02:
+Exploratory Data Analysis (EDA) is all about understanding the data better using statistics and graphs. I learned how to find basic information like averages, medians, and patterns in the data. I also learned how to use tools like Pandas, Matplotlib, and Seaborn to create charts such as histograms, box plots, and heatmaps to spot trends and unusual data points. This helps you make smart decisions before building any machine learning model. The goal is to explore the data, find hidden insights, and make it easier to work with in the next steps.
